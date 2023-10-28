@@ -1,6 +1,6 @@
 # APRESENTAÇÃO PARA LIBRARIA
   
-Página de apresentenção de habilidades em LIBRAS, edição de vídeo e frot end.
+Página de apresentação de habilidades em LIBRAS, edição de vídeo e frot end.
  
 ## Índice
  
