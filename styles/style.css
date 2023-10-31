@@ -310,13 +310,13 @@ iframe {
         height: 2.5em;
     }
     .apresentacao{
-        margin: 10% 0% 3% 0%;
+        margin: 5% 0% 5% 0%;
         text-align:center;
         display:block;
     }
 
     .apresentacao__principal{
-        font-size: 0.8rem;
+        font-size: 1rem;
         font-family: var(--fonte-principal);
         display:block;
 
@@ -339,7 +339,7 @@ iframe {
     }
 
     .apresentacao__conteudo__titulo{
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .apresentacao__conteudo__paragrafo_curriculo{
@@ -362,4 +362,8 @@ iframe {
     .apresentacao__fotos__imagem:hover{
         width: 97%;
     }
+
+    iframe {
+       margin: 5% 0% 3% 0%;
+      }
 }
